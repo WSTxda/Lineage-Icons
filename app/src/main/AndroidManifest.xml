@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="wstxda.losicons">
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_icon_pack"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="com.fede.launcher.THEME_ICONPACK" />
+                <action android:name="com.anddoes.launcher.THEME" />
+                <action android:name="com.novalauncher.THEME" />
+                <action android:name="com.teslacoilsw.launcher.THEME" />
+                <action android:name="com.gau.go.launcherex.theme" />
+                <action android:name="org.adw.launcher.THEMES" />
+                <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />
+                <action android:name="com.lineageos.trebuchet.THEME" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
