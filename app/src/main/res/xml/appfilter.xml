@@ -800,5 +800,4 @@
 	<item component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange}" drawable="messages" />
 	<item component="ComponentInfo{com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.MainActivity}" drawable="equalizer" />
 	<item component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}" drawable="recorder" />
-	<item component="ComponentInfo{com.wstxda.QuickPic/com.wstxda.QuickPic.GalleryActivity}" drawable="gallery" />
 </resources>
