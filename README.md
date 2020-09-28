@@ -7,9 +7,9 @@ Get Lineage icons on any customizable launcher.
 ![](https://i.imgur.com/1s73Qa6.png)
 
 ## Styles
-- Round icons
-- Adaptive icons (8.0+)
-- Classic icons from LineageOS 14
+- Round icons (For launchers not support adaptive icons)
+- Adaptive icons (Only Android 8.0+)
+- Classic icons (Versions below Android 7.1.2)
 
 ## Installation 
 - Download [last apk](https://github.com/WSTxda/Lineage-Icons/releases) version
