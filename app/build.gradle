@@ -6,8 +6,8 @@ android {
         applicationId "wstxda.losicons"
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode 3
-        versionName "3.0"
+        versionCode 31
+        versionName "3.1"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
