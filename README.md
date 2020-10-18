@@ -1,5 +1,5 @@
 # Lineage Icons - Icon Pack
-Get Lineage icons on any customizable launcher.
+Get LineageOS system icons on any customizable launcher.
 
 ![](https://i.imgur.com/1L3EeLE.png)
 
