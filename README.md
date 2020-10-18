@@ -1,10 +1,9 @@
-# LineageOS Icon Pack
-
-[![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/WSTxda/Lineage-Icons?style=flat-square)](https://github.com/WSTxda/Lineage-Icons/releases)
-
+# Lineage Icons - Icon Pack
 Get Lineage icons on any customizable launcher.
 
-![](https://i.imgur.com/1s73Qa6.png)
+![](https://i.imgur.com/1L3EeLE.png)
+
+[![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/WSTxda/Lineage-Icons?style=flat-square)](https://github.com/WSTxda/Lineage-Icons/releases)
 
 ## Styles
 - Round icons (For launchers not support adaptive icons)
@@ -13,10 +12,7 @@ Get Lineage icons on any customizable launcher.
 
 ## Installation 
 - Download [last apk](https://github.com/WSTxda/Lineage-Icons/releases) version
-- Apply to any launcher that provides support
-
-## Support
-- [Telegram Group](https://t.me/WSTchat)
+- Apply to any launcher that provides support for icon pack
 
 ## Credits
 - This application is a fork of [Google Icons](https://github.com/amirzaidi/GoogleIcons) thanks for [Amirzaidi](https://github.com/amirzaidi)
