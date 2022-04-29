@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2022 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <path
+      android:pathData="M0,0h108v108h-108z"
+      android:fillColor="#2A3232"/>
+  <path
+      android:pathData="M52.472,34C50.957,34 49.572,34.856 48.894,36.211L47,40L33.084,43.274C31.277,43.7 30,45.312 30,47.168V66C30,68.209 31.791,70 34,70H74C76.209,70 78,68.209 78,66V46.599C78,45.019 77.069,43.586 75.625,42.944L69,40L67.106,36.211C66.428,34.856 65.043,34 63.528,34H52.472Z"
+      android:fillColor="#98A7A7"
+      android:fillType="evenOdd"/>
+  <path
+      android:pathData="M30,47.171C30,45.314 31.278,43.701 33.086,43.277L38,42.124V70.001H34C31.791,70.001 30,68.21 30,66.001V47.171Z"
+      android:fillColor="#D0D7D8"/>
+  <path
+      android:pathData="M34,47m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0"
+      android:fillColor="#0092E4"/>
+  <path
+      android:pathData="M58,54m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0"
+      android:fillColor="#2A3232"/>
+</vector>

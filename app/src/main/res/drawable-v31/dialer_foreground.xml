@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2022 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <group>
+    <clip-path
+        android:pathData="M0,0h108v108h-108z"/>
+    <path
+        android:pathData="M47.422,77.789C48.1,79.144 49.485,80 51,80H61C62.515,80 63.9,79.144 64.578,77.789L66.578,73.789C67.141,72.663 67.141,71.337 66.578,70.211L64.578,66.211C63.9,64.856 62.515,64 61,64H51C49.485,64 48.1,64.856 47.422,66.211L45.422,70.211C44.859,71.337 44.859,72.663 45.422,73.789L47.422,77.789Z"
+        android:fillColor="#193057"
+        android:fillType="evenOdd"/>
+    <path
+        android:pathData="M47.422,30.211C48.1,28.856 49.485,28 51,28H61C62.515,28 63.9,28.856 64.578,30.211L66.578,34.211C67.141,35.337 67.141,36.663 66.578,37.789L64.578,41.789C63.9,43.144 62.515,44 61,44H51C49.485,44 48.1,43.144 47.422,41.789L45.422,37.789C44.859,36.663 44.859,35.337 45.422,34.211L47.422,30.211Z"
+        android:fillColor="#193057"
+        android:fillType="evenOdd"/>
+    <path
+        android:pathData="M41,54C41,43.751 43.836,37.383 45.422,34.211L47.425,30.209C48.102,28.855 49.486,28 51,28H61C59.486,28 58.102,28.855 57.425,30.209L55.422,34.211C53.836,37.383 51,43.751 51,54C51,64.249 53.836,70.617 55.422,73.789L57.425,77.791C58.102,79.145 59.486,80 61,80H51C49.486,80 48.102,79.145 47.425,77.791L45.422,73.789C43.836,70.617 41,64.249 41,54Z"
+        android:fillColor="#4D84E9"/>
+    <path
+        android:pathData="M28.54,28.54m-72,0a72,72 0,1 1,144 0a72,72 0,1 1,-144 0"
+        android:fillAlpha="0.6">
+      <aapt:attr name="android:fillColor">
+        <gradient
+            android:gradientRadius="72"
+            android:centerX="28.54"
+            android:centerY="28.54"
+            android:type="radial">
+          <item android:offset="0" android:color="#19FFFFFF"/>
+          <item android:offset="1" android:color="#00FFFFFF"/>
+        </gradient>
+      </aapt:attr>
+    </path>
+  </group>
+</vector>

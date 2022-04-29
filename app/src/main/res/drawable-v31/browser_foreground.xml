@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2022 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <group>
+    <clip-path
+        android:pathData="M0,0h108v108h-108z"/>
+    <path
+        android:pathData="M53.229,61.503C51.872,58.519 49.481,56.128 46.497,54.771C45.834,54.47 45.834,53.53 46.497,53.229C49.481,51.872 51.872,49.481 53.229,46.497C53.53,45.834 54.47,45.834 54.771,46.497C56.128,49.481 58.519,51.872 61.503,53.229C62.166,53.53 62.166,54.47 61.503,54.771C58.519,56.128 56.128,58.519 54.771,61.503C54.47,62.166 53.53,62.166 53.229,61.503Z"
+        android:fillColor="#193057"/>
+    <path
+        android:pathData="M28.54,28.54m-72,0a72,72 0,1 1,144 0a72,72 0,1 1,-144 0"
+        android:fillAlpha="0.6">
+      <aapt:attr name="android:fillColor">
+        <gradient
+            android:gradientRadius="72"
+            android:centerX="28.54"
+            android:centerY="28.54"
+            android:type="radial">
+          <item android:offset="0" android:color="#19FFFFFF"/>
+          <item android:offset="1" android:color="#00FFFFFF"/>
+        </gradient>
+      </aapt:attr>
+    </path>
+  </group>
+</vector>

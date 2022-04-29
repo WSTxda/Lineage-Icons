@@ -5,9 +5,9 @@ android {
     defaultConfig {
         applicationId "wstxda.losicons"
         minSdkVersion 21
-        targetSdkVersion 29
-        versionCode 41
-        versionName "3.9"
+        targetSdkVersion 32
+        versionCode 50
+        versionName "5.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {

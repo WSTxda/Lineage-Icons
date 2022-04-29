@@ -8,7 +8,6 @@ Get LineageOS system icons on any customizable launcher.
 <p align="vertical"><a href="https://bit.ly/2lV0E6u"><img src="https://github.com/aha999/DonateButtons/blob/1371730702589476cbd31790685ded66857a1f08/Paypal.png" width="175"></a></p>
 
 ## Styles
-- Round icons (For launchers not support adaptive icons)
 - Adaptive icons (Only Android 8.0+)
 - Classic icons (Versions below Android 7.1.2)
 

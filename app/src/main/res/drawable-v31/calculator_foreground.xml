@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2022 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <group>
+    <clip-path
+        android:pathData="M0,0h108v108h-108z"/>
+    <path
+        android:pathData="M41,48L47,48A1,1 0,0 1,48 49L48,55A1,1 0,0 1,47 56L41,56A1,1 0,0 1,40 55L40,49A1,1 0,0 1,41 48z"
+        android:fillColor="#ffffff"/>
+    <path
+        android:pathData="M41,58L47,58A1,1 0,0 1,48 59L48,65A1,1 0,0 1,47 66L41,66A1,1 0,0 1,40 65L40,59A1,1 0,0 1,41 58z"
+        android:fillColor="#ffffff"/>
+    <path
+        android:pathData="M40,69C40,68.448 40.448,68 41,68H47C47.552,68 48,68.448 48,69V75C48,75.552 47.552,76 47,76H42C40.895,76 40,75.105 40,74V69Z"
+        android:fillColor="#ffffff"/>
+    <path
+        android:pathData="M51,48L57,48A1,1 0,0 1,58 49L58,55A1,1 0,0 1,57 56L51,56A1,1 0,0 1,50 55L50,49A1,1 0,0 1,51 48z"
+        android:fillColor="#ffffff"/>
+    <path
+        android:pathData="M61,48L67,48A1,1 0,0 1,68 49L68,55A1,1 0,0 1,67 56L61,56A1,1 0,0 1,60 55L60,49A1,1 0,0 1,61 48z"
+        android:fillColor="#F93B4F"/>
+    <path
+        android:pathData="M51,58L57,58A1,1 0,0 1,58 59L58,65A1,1 0,0 1,57 66L51,66A1,1 0,0 1,50 65L50,59A1,1 0,0 1,51 58z"
+        android:fillColor="#ffffff"/>
+    <path
+        android:pathData="M61,58L67,58A1,1 0,0 1,68 59L68,65A1,1 0,0 1,67 66L61,66A1,1 0,0 1,60 65L60,59A1,1 0,0 1,61 58z"
+        android:fillColor="#F93B4F"/>
+    <path
+        android:pathData="M51,68L57,68A1,1 0,0 1,58 69L58,75A1,1 0,0 1,57 76L51,76A1,1 0,0 1,50 75L50,69A1,1 0,0 1,51 68z"
+        android:fillColor="#ffffff"/>
+    <path
+        android:pathData="M60,69C60,68.448 60.448,68 61,68H67C67.552,68 68,68.448 68,69V74C68,75.105 67.105,76 66,76H61C60.448,76 60,75.552 60,75V69Z"
+        android:fillColor="#F93B4F"/>
+    <path
+        android:pathData="M28.54,28.54m-72,0a72,72 0,1 1,144 0a72,72 0,1 1,-144 0"
+        android:fillAlpha="0.6">
+      <aapt:attr name="android:fillColor">
+        <gradient
+            android:gradientRadius="72"
+            android:centerX="28.54"
+            android:centerY="28.54"
+            android:type="radial">
+          <item android:offset="0" android:color="#19FFFFFF"/>
+          <item android:offset="1" android:color="#00FFFFFF"/>
+        </gradient>
+      </aapt:attr>
+    </path>
+  </group>
+</vector>
