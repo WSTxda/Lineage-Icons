@@ -5,7 +5,8 @@
         android:icon="@mipmap/ic_launcher_icon_pack"
         android:label="@string/app_name"
         android:supportsRtl="true">
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="com.fede.launcher.THEME_ICONPACK" />
                 <action android:name="com.anddoes.launcher.THEME" />
