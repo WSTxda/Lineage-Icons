@@ -1,21 +1,14 @@
-# Lineage Icons - Icon Pack
-Get LineageOS system icons on any customizable launcher.
+A useless icon pack for timepass
+ forked from lineage os icon pack
 
-![](https://i.imgur.com/1L3EeLE.png)
 
-[![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/WSTxda/Lineage-Icons?style=flat-square)](https://github.com/WSTxda/Lineage-Icons/releases)
+installation is easy just install the last release 
 
-<p align="vertical"><a href="https://bit.ly/2lV0E6u"><img src="https://github.com/aha999/DonateButtons/blob/1371730702589476cbd31790685ded66857a1f08/Paypal.png" width="175"></a></p>
 
-## Styles
-- Adaptive icons (Only Android 8.0+)
-- Classic icons (Versions below Android 7.1.2)
 
-## Installation 
-- Download [last apk](https://github.com/WSTxda/Lineage-Icons/releases) version
-- Apply to any launcher that provides support for icon pack
+credits to 
+   
 
-## Credits
-- This application is a fork of [Google Icons](https://github.com/amirzaidi/GoogleIcons) thanks for [Amirzaidi](https://github.com/amirzaidi)
-
-- All icons are from the [LineageOS](https://lineageos.org) thank you very much to all the designers (I hope you are not angry with me :v)
+-- lineage os for lineage os icons
+-- google for google icons
+-- few other icons creaters 
