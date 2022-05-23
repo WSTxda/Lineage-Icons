@@ -9,6 +9,6 @@ installation is easy just install the last release
 credits to 
    
 
--- lineage os for lineage os icons
--- google for google icons
--- few other icons creaters 
+- lineage os for lineage os icons
+- google for google icons
+- few other icons creaters 
