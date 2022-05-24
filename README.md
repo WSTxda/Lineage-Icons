@@ -11,4 +11,4 @@ credits to
 
 - lineage os for lineage os icons
 - google for google icons
-- few other icons creaters 
+- few other icons creators 
