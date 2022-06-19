@@ -1,4 +1,4 @@
-package wstxda.losicons;
+package harmit.losicons;
 
 import android.app.Activity;
 
