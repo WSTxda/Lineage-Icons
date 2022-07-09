@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="wstxda.losicons">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="wstxda.lineageicons">
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher_icon_pack"
@@ -14,11 +14,7 @@
                 <action android:name="com.teslacoilsw.launcher.THEME" />
                 <action android:name="com.gau.go.launcherex.theme" />
                 <action android:name="org.adw.launcher.THEMES" />
-                <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />	
-                <action android:name="net.oneplus.launcher.icons.ACTION_PICK_ICON" />
-                <action android:name="com.lge.launcher2.THEME" />
-                <action android:name="android.intent.action.MAIN" />
-                <action android:name="com.sonymobile.home.ICON_PACK" />
+                <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />
                 <action android:name="com.lineageos.trebuchet.THEME" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>

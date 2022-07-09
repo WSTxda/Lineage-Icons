@@ -1,4 +1,4 @@
-package wstxda.losicons;
+package wstxda.lineageicons;
 
 import android.app.Activity;
 
