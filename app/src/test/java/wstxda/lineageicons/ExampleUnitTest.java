@@ -1,6 +1,6 @@
 package wstxda.lineageicons;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
