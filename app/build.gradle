@@ -6,9 +6,9 @@ android {
         applicationId "wstxda.lineageicons"
         minSdkVersion 21
         targetSdkVersion 33
-        versionCode 510
-        versionName '5.1'
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        versionCode 600
+        versionName '6.0'
+        testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
     }
     buildTypes {
         release {
@@ -16,6 +16,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    namespace 'wstxda.lineageicons'
     applicationVariants.all {
         variant -> variant.outputs.all {
             outputFileName = "LineageIcons-${variant.name}.apk"
@@ -26,6 +27,6 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     testImplementation 'junit:junit:4.13.2'
-    androidTestImplementation 'com.android.support.test:runner:1.0.2'
-    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.4'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
 }

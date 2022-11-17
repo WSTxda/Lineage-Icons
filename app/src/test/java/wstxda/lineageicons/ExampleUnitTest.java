@@ -1,8 +1,8 @@
 package wstxda.lineageicons;
 
-import org.junit.Test;
-
 import static org.junit.Assert.*;
+
+import org.junit.jupiter.api.Test;
 
 /**
  * Example local unit test, which will execute on the development machine (host).
