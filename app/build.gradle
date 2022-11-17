@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'org.jetbrains.kotlin.android'
 
 android {
     compileSdk 33
@@ -18,14 +19,20 @@ android {
     }
     namespace 'wstxda.lineageicons'
     applicationVariants.all {
-        variant -> variant.outputs.all {
-            outputFileName = "LineageIcons-${variant.name}.apk"
-        }
+        variant ->
+            variant.outputs.all {
+                outputFileName = "LineageIcons-${variant.name}.apk"
+            }
     }
 }
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+<<<<<<< Updated upstream
+    implementation 'androidx.core:core-ktx:+'
+=======
+    implementation 'androidx.core:core-ktx:1.9.0'
+>>>>>>> Stashed changes
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.4'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
      SPDX-FileCopyrightText: 2022 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
@@ -12,17 +11,17 @@
         android:pathData="M34,39.5L74,39.5A2.5,2.5 0,0 1,76.5 42L76.5,66A2.5,2.5 0,0 1,74 68.5L34,68.5A2.5,2.5 0,0 1,31.5 66L31.5,42A2.5,2.5 0,0 1,34 39.5z"
         android:strokeWidth="3"
         android:fillColor="#00000000"
-        android:strokeColor="#ffffffff"/>
+        android:strokeColor="#ffffffff" />
     <path
         android:pathData="M72.243,38L63.121,47.121L61,49.243L58.879,47.121L49.757,38H54L58.879,42.879L61,45L63.121,42.879L68,38H72.243Z"
         android:fillColor="#ffffffff"
-        android:fillType="evenOdd"/>
+        android:fillType="evenOdd" />
     <path
         android:pathData="M78,45V66C78,68.13 76.335,69.871 74.236,69.993L63.621,59.379L78,45Z"
         android:fillColor="#ffffffff"
-        android:fillType="evenOdd"/>
+        android:fillType="evenOdd" />
     <path
         android:pathData="M70,70H34C31.791,70 30,68.209 30,66V60L45,45L70,70Z"
         android:fillColor="#ffffffff"
-        android:fillType="evenOdd"/>
+        android:fillType="evenOdd" />
 </vector>
