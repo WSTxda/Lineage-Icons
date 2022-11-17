@@ -2,4 +2,5 @@
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
 	<background android:drawable="@drawable/sim_toolkit_background" />
 	<foreground android:drawable="@drawable/sim_toolkit_foreground" />
+	<monochrome android:drawable="@drawable/sim_toolkit_monochrome" />
 </adaptive-icon>
