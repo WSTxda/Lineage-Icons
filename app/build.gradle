@@ -7,8 +7,8 @@ android {
         applicationId "wstxda.lineageicons"
         minSdkVersion 21
         targetSdkVersion 33
-        versionCode 600
-        versionName '6.0'
+        versionCode 610
+        versionName '6.1'
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
     }
     buildTypes {
@@ -28,11 +28,8 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-<<<<<<< Updated upstream
-    implementation 'androidx.core:core-ktx:+'
-=======
     implementation 'androidx.core:core-ktx:1.9.0'
->>>>>>> Stashed changes
+    implementation 'androidx.core:core-ktx:1.9.0'
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.4'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
