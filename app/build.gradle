@@ -2,11 +2,11 @@ apply plugin: 'com.android.application'
 apply plugin: 'org.jetbrains.kotlin.android'
 
 android {
-    compileSdk 33
+    compileSdk 34
     defaultConfig {
         applicationId "wstxda.lineageicons"
-        minSdkVersion 21
-        targetSdkVersion 33
+        minSdkVersion 23
+        targetSdkVersion 34
         versionCode 610
         versionName '6.1'
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
@@ -18,7 +18,7 @@ android {
         }
     }
     namespace 'wstxda.lineageicons'
-    applicationVariants.all {
+    applicationVariants.configureEach {
         variant ->
             variant.outputs.all {
                 outputFileName = "LineageIcons-${variant.name}.apk"
@@ -28,8 +28,8 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'androidx.core:core-ktx:1.9.0'
-    implementation 'androidx.core:core-ktx:1.9.0'
+    implementation 'androidx.core:core-ktx:1.12.0'
+    implementation 'androidx.core:core-ktx:1.12.0'
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'

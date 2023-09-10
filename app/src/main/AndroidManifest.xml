@@ -18,7 +18,6 @@
                 <action android:name="org.adw.launcher.THEMES" />
                 <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />
                 <action android:name="com.lineageos.trebuchet.THEME" />
-                <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />
                 <action android:name="net.oneplus.launcher.icons.ACTION_PICK_ICON" />
                 <action android:name="com.lge.launcher2.THEME" />
                 <action android:name="com.sonymobile.home.ICON_PACK" />
