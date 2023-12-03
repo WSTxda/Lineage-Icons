@@ -11,26 +11,26 @@
     <group>
         <clip-path android:pathData="M0,0h108v108h-108z" />
         <path
-            android:pathData="M58,55m-17,0a17,17 0,1 1,34 0a17,17 0,1 1,-34 0"
-            android:fillColor="#596666" />
+            android:fillColor="#596666"
+            android:pathData="M58,55m-17,0a17,17 0,1 1,34 0a17,17 0,1 1,-34 0" />
         <path
-            android:pathData="M58,55m-15,0a15,15 0,1 1,30 0a15,15 0,1 1,-30 0"
-            android:fillColor="#2A3232" />
+            android:fillColor="#2A3232"
+            android:pathData="M58,55m-15,0a15,15 0,1 1,30 0a15,15 0,1 1,-30 0" />
         <path
-            android:pathData="M28.54,28.54m-72,0a72,72 0,1 1,144 0a72,72 0,1 1,-144 0"
-            android:fillAlpha="0.6">
+            android:fillAlpha="0.6"
+            android:pathData="M28.54,28.54m-72,0a72,72 0,1 1,144 0a72,72 0,1 1,-144 0">
             <aapt:attr name="android:fillColor">
                 <gradient
-                    android:gradientRadius="72"
                     android:centerX="28.54"
                     android:centerY="28.54"
+                    android:gradientRadius="72"
                     android:type="radial">
                     <item
-                        android:offset="0"
-                        android:color="#19FFFFFF" />
+                        android:color="#19FFFFFF"
+                        android:offset="0" />
                     <item
-                        android:offset="1"
-                        android:color="#00FFFFFF" />
+                        android:color="#00FFFFFF"
+                        android:offset="1" />
                 </gradient>
             </aapt:attr>
         </path>

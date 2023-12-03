@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:height="108.0dip"
     android:width="108.0dip"
+    android:height="108.0dip"
     android:viewportWidth="136.18182"
     android:viewportHeight="136.18182">
     <group
@@ -9,7 +9,7 @@
         android:translateY="51.721382">
         <path
             android:fillColor="#ffff8205"
-            android:pathData="M7.94,0L0,0L0,16.6L7.94,16.6L7.94,0ZM16.31,0L16.31,8.2L24.69,8.2L24.69,0L16.31,0ZM33.06,0L33.06,16.6L41.44,16.6L41.44,0L33.06,0ZM0,33.4L7.94,33.4L7.94,25L0,25L0,33.4ZM41.44,33.4L33.06,33.4L33.06,25L41.44,25L41.44,33.4ZM24.69,33.4L16.31,33.4L16.31,16.6L24.69,16.6L24.69,33.4Z"
-            android:fillType="evenOdd" />
+            android:fillType="evenOdd"
+            android:pathData="M7.94,0L0,0L0,16.6L7.94,16.6L7.94,0ZM16.31,0L16.31,8.2L24.69,8.2L24.69,0L16.31,0ZM33.06,0L33.06,16.6L41.44,16.6L41.44,0L33.06,0ZM0,33.4L7.94,33.4L7.94,25L0,25L0,33.4ZM41.44,33.4L33.06,33.4L33.06,25L41.44,25L41.44,33.4ZM24.69,33.4L16.31,33.4L16.31,16.6L24.69,16.6L24.69,33.4Z" />
     </group>
 </vector>

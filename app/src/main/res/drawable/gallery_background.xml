@@ -10,16 +10,16 @@
     <group>
         <clip-path android:pathData="M0,0h108v108h-108z" />
         <path
-            android:pathData="M0,0h108v108h-108z"
-            android:fillColor="#CBDEFB" />
+            android:fillColor="#CBDEFB"
+            android:pathData="M0,0h108v108h-108z" />
         <path
-            android:pathData="M15,108L78,45L141,108H15Z"
-            android:fillColor="#00354A" />
+            android:fillColor="#00354A"
+            android:pathData="M15,108L78,45L141,108H15Z" />
         <path
-            android:pathData="M-18,108L45,45L108,108H-18Z"
-            android:fillColor="#0092E4" />
+            android:fillColor="#0092E4"
+            android:pathData="M-18,108L45,45L108,108H-18Z" />
         <path
-            android:pathData="M61,13L45,29L61,45L77,29L61,13Z"
-            android:fillColor="#F09F38" />
+            android:fillColor="#F09F38"
+            android:pathData="M61,13L45,29L61,45L77,29L61,13Z" />
     </group>
 </vector>
