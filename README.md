@@ -1,7 +1,7 @@
 # Lineage Icons - Icon Pack
 LineageOS system icons on any customizable launcher
 
-[![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/downloads/WSTxda/Lineage-Icons/total?color=blue&label=Downloads&style=flat-square)](https://github.com/WSTxda/Lineage-Icons/releases)
+[![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-24%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/downloads/WSTxda/Lineage-Icons/total?color=blue&label=Downloads&style=flat-square)](https://github.com/WSTxda/Lineage-Icons/releases)
 ![](https://raw.githubusercontent.com/WSTxda/LIneage-Icons/master/images/banner.svg)
 ![](https://raw.githubusercontent.com/WSTxda/LIneage-Icons/master/images/preview.png)
 
