@@ -1,3 +1,4 @@
+# ❌ DISCONTINUED
 # Lineage Icons - Icon Pack
 LineageOS system icons on any customizable launcher
 
