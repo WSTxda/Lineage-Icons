@@ -1,4 +1,3 @@
-# ❌ DISCONTINUED
 # Lineage Icons - Icon Pack
 LineageOS system icons on any customizable launcher
 
@@ -7,7 +6,7 @@ LineageOS system icons on any customizable launcher
 ![](https://raw.githubusercontent.com/WSTxda/LIneage-Icons/master/images/banner.svg)
 ![](https://raw.githubusercontent.com/WSTxda/LIneage-Icons/master/images/preview.png)
 
-**Styles**
+### Styles
 
 <details>
   <summary>Retro</summary>
@@ -29,22 +28,22 @@ LineageOS system icons on any customizable launcher
 - Themed icons supported (Monet)
 </details>
 
-**Download**
+### Download
 
-[<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/GitHub.svg"
+[<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/GitHub.svg"
       alt='Get it on GitHub'
-      height="80">](https://github.com/WSTxda/Lineage-Icons/releases/latest) [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/Telegram.svg"
+      height="80">](https://github.com/WSTxda/Lineage-Icons/releases/latest) [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/Telegram.svg"
       alt='Get it on Telegram'
       height="80">](https://t.me/WSTprojects)
 
-**Donate**
+### Donate
 
-[<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/PayPal.svg"
+[<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/PayPal.svg"
       alt='Donate with PayPal'
-      height="80">](https://bit.ly/2lV0E6u) [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/BMC.svg"
+      height="80">](https://bit.ly/2lV0E6u) [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/BMC.svg"
       alt='Donate with BMC'
       height="80">](https://www.buymeacoffee.com/wstxda)
 
-**Credits**
+### Credits
 
 All icons are from the [LineageOS](https://lineageos.org) thank you very much to all the designers
